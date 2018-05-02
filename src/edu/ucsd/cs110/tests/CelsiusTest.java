@@ -34,7 +34,7 @@ public class CelsiusTest extends TestCase {
 
         // Verify the middle of the formatted string
         int endIndex = string.indexOf(ending);
-        assertTrue(string.substring(1, endIndex).equals(beginning));
+        assertTrue(string.substring(0, endIndex).equals(beginning));
     }
 
     public void testCelsiusToCelsius() {
