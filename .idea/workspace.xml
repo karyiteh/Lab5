@@ -46,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="385">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,7 +132,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="948" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
@@ -333,7 +333,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525280664001</updated>
-      <workItem from="1525280667225" duration="2989000" />
+      <workItem from="1525280667225" duration="3573000" />
     </task>
     <servers />
   </component>
@@ -352,7 +352,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2989000" />
+    <option name="totallyTimeSpent" value="3573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="632" y="0" width="654" height="688" extended-state="0" />
@@ -473,7 +473,7 @@
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -497,7 +497,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
